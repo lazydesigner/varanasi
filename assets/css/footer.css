@@ -1,0 +1,510 @@
+
+.new-profile-area{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1%;
+}
+/* PROFILES */
+/* .profile-section{
+    width: 100%;
+    height: auto;
+    padding: 4% 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+} */
+
+.profile-card{
+    margin:4% 1%;
+
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 1px solid var(--navbarColor);
+    background-color: rgb(21, 20, 20);
+}
+.profile-card:hover{
+    box-shadow: 0 0 14px 2px rgb(33, 32, 32);
+    transform: scale(1.01);
+}
+.profile-card-img{
+    width: 100%;
+    aspect-ratio: 1/1;
+}
+.profile-card-img img{
+    width: 100%;
+    height: 100%;
+}
+.profile-name{
+    padding: 1%;
+    text-align: center;
+    margin: 0;
+    color: #e2e8f0;
+}
+.profile-card-detail{
+    background-color: rgb(21, 20, 20);
+}
+.profile-details{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    padding: 1% 5%;
+    justify-content:space-between;
+    gap: 2%;
+    text-align: center;
+}
+.profile-details div{
+    width: 100%;
+    line-height: 30px;
+    background-color: yellow;
+    color: black;
+    padding: 1% 2%;
+}
+.profile-cat{
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 2% 0;
+}
+.profile-area{
+    height: 50px;
+    background: rgb(217,22,83);
+    background: linear-gradient(71deg, var(--navbarColor), var(--bodyColor));
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    font-weight: bolder;
+    transition:.5s ;
+}
+.profile-area:hover{
+    
+    transition:.5s ;
+    background: linear-gradient(to right, var(--navbarColor) 60%, var(--bodyColor) 100%);
+}
+
+
+
+
+
+/* FOOTER */
+.list-of-hotels {
+    width: 98%;
+    height: auto;
+    padding: 2%;
+    margin: auto;
+    margin-top: 2%;
+    border-radius: 200px;
+    box-shadow: 0 0 10px 2px var(--headerColor);
+    background-color: var(--navbarColor);
+    
+}
+.list-of-hotels a {
+    color: var(--bodyColor);
+}
+
+.list-of-hotels .container {
+    background-color: transparent;
+}
+
+.list-of-hotels-row {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 2% 0;
+    gap: 2%;
+}
+
+.list-of-hotels-col {
+    width: 17%;
+    padding: 1% 0;
+    border-bottom: 3px solid var(--textColor);
+    font-weight: bold;
+    border-radius: 0 0 10% 10%;
+}
+
+.list-of-areas-row {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    margin: 2% 0;
+}
+
+.list-of-areas {
+    padding: 1%;
+}
+
+.areas-container {
+    width: 250px;
+    height: auto;
+    overflow: hidden;
+    border-radius: 20px 0 20px 0;
+}
+
+    .areas-container img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: .5s;
+        
+    }
+
+    .areas-container img:hover {
+        object-position: bottom;
+        transform: scale(1.05);
+    }
+
+.list-of-hotels  h3 {
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+.service-information {
+    width: 100%;
+    height: 100px;
+    background-color: var(--navbarColor);
+    padding: 0 5%;}
+
+    .service-information .service-info-row {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        gap: 2%;
+        align-items: center;
+    }
+
+    .service-information p {
+        margin: 0;
+        padding: 0;
+    }
+
+    .service-info-col {
+        display: flex;
+        align-items: center;
+        gap: 2%;
+        color: var(--textColor);
+    }
+
+    .service-information .service-info-col-icon {
+        width: 50px;
+        height: 50px;
+    }
+
+
+
+footer {
+    border-top: 1px solid black;
+    width: 100%;
+    height: auto;
+    padding: 2% 3%;
+    background-color: var(--navbarColor);
+}
+footer .footer-row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+footer .footer-col {
+    flex: 1;
+}
+
+footer .footer-img-div {
+    width: 60%;
+    margin: 7% auto 0 auto;
+
+}
+
+footer strong {
+    font-size: 2rem;
+    padding: 0 0 0 10%;
+}
+
+footer ul {
+    padding: 0 0 0 10%;
+    margin: 0;
+    margin-top: 5%;
+    list-style: none;
+
+    
+}
+footer ul li {
+    margin: 2% 0;
+}
+footer ul li a {
+    color: var(--textColor);
+    font-size: 1.2rem;   
+}
+footer ul li a:hover {
+    color: var(--bodyColor);
+}
+
+/* CSS */
+.faq {
+    display: flex;
+    flex-direction: column;
+}
+
+.question {
+    background-color: #f6f6f6;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px;
+    border-radius: 10px;
+    transition: all 0.3s ease-out;
+}
+
+.question:hover {
+    background-color: #ebebeb;
+}
+
+.answer {
+    display: none;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 1.4;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-out;
+}
+
+.question.active {
+    background-color: #edf2f7;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1);
+    transform: translateY(-10px);
+    border-radius: 10px 10px 0 0;
+}
+
+.question.active+.answer {
+    display: block;
+    transform: translateY(0);
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    border-radius: 0 0 10px 10px;
+}
+.footer-other-location{
+    width: 100%;
+    height: auto;padding: 2% 10%;
+}
+.footer-other-location-row{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 10;
+    gap: 2%;
+}
+.cat-btn{
+    display: inline-block;
+    text-align: center;
+    width: auto;
+    padding: 0 3%;
+    margin: 5% 0;
+    line-height: 40px;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 100px;
+    background-color: var(--navbarColor);
+    color: white;
+    position: relative;
+    overflow: hidden;
+}
+.cat-btn::after{
+    content: '';
+    width: 100px;
+    height: 0;
+    box-shadow: 0 0 15px 5px yellow;
+    position: absolute;
+    top: 20px;
+    transform: translateX(50px) rotate(45deg) ;
+    transition: 1s transform ease-in-out;
+}
+.cat-btn:hover{transform: scale(1.01);
+    text-shadow: 0 0 6px 2.5px black;}
+.cat-btn:hover::after{
+    
+    transform:translateX(-220px)  rotate(45deg);
+}
+ 
+.call-the-call-btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    position: fixed;
+    left: 2%;
+    bottom: 2%;
+    background-color: var(--navbarColor);
+    border: 1px solid yellow;
+    color: white;
+    cursor: pointer;
+}
+.call-the-whatsapp-btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: grid;
+    place-items: center;
+    position: fixed;
+    right: 2%;
+    bottom: 2%;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+@media screen and (max-width:770px) {
+
+    .list-of-hotels {
+        border-radius: 0;
+    }
+
+    .list-of-hotels-row {
+        flex-wrap: wrap;
+    }
+
+    .list-of-hotels-col {
+        width: 30%;
+        margin: 2% 0;
+    }
+    .list-of-areas-row {
+        flex-wrap: wrap;
+        gap: 2%;
+    }
+
+    .areas-container {
+        margin: 2% 0;
+    }
+    .cat-btn{margin: 3% 0;}
+}
+
+@media screen and (max-width:700px) {
+    .list-of-hotels {
+        border-radius: 0;
+    }
+
+    .list-of-hotels-row {
+        flex-wrap: wrap;
+    }
+
+    .list-of-hotels-col {
+        width: 45%;
+        margin: 2% 0;
+    }
+
+    .list-of-areas-row {
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 2%;
+    }
+
+    .areas-container {
+        margin: 2% 0;
+    }
+
+    .service-information {
+        height: auto;
+    }
+
+    .service-info-row {
+        flex-wrap: wrap;
+    }
+
+    .service-info-col {
+        width: 45%;
+        margin: 2% .5%;
+    }
+
+    .footer-row {
+        flex-wrap: wrap;
+
+        
+    }
+    .footer-row .footer-col {
+        flex: 50%;
+    }
+}
+
+
+
+@media screen and (max-width:500px) {
+    .cat-btn{margin: 2% 0;}
+
+    .list-of-hotels {
+        border-radius: 0;
+    }
+
+    .list-of-hotels-row {
+        flex-wrap: wrap;
+    }
+
+    .list-of-hotels-col {
+        width: 45%;
+        margin: 2% 0;
+    }
+
+    .list-of-areas-row {
+        flex-wrap: wrap;
+        gap: 2%;
+    }
+
+    .areas-container {
+        width: 200px;
+        height: auto;
+        margin: 1% 0;
+    }
+
+    .service-information {
+        height: auto;        
+    }
+    .service-information .service-info-row {
+        flex-wrap: wrap;
+    }
+
+    .service-information .service-info-col {
+        width: 100%;
+        border-bottom: 1px solid white;
+    }
+
+    .footer-row {
+        flex-wrap: wrap;        
+    }
+    .footer-row .footer-col {
+        flex: 100%;
+        margin: 2% 0;
+        text-align: center;
+    }
+    .call-the-whatsapp-btn{width: 50%;
+        border-radius: 0;
+        bottom: 0;right: 0;}
+    .call-the-call-btn{
+        width: 50%;
+        border-radius: 0;
+        bottom: 0;left: 0;
+    }
+
+}
+
+@media screen and (max-width:410px) {
+    .list-of-hotels-col {
+        width: 100%;
+    }
+}
