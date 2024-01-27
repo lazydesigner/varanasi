@@ -7,17 +7,17 @@ include './profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Title of page</title>
-    <meta name="description" content="meta description">
+    <title>Price List | varanasi.callgirlsinlucknow.in</title>
+    <meta name="description" content="We are genuine escort provider and we have price list of each and every service. We try to provide estimated price only so please confirm during deal.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Title of page" />
-    <meta property="og:description" content="meta description" />
+    <meta property="og:title" content="Price List | varanasi.callgirlsinlucknow.in" />
+    <meta property="og:description" content="We are genuine escort provider and we have price list of each and every service. We try to provide estimated price only so please confirm during deal." />
     <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Title of page" />
-    <meta name="twitter:description" content="meta description" />
+    <meta name="twitter:title" content="Price List | varanasi.callgirlsinlucknow.in" />
+    <meta name="twitter:description" content="We are genuine escort provider and we have price list of each and every service. We try to provide estimated price only so please confirm during deal." />
     <link rel="canonical" href="<?= get_url() ?>agonda-escorts/" />
     <?= $pages_css ?>
     <style>
@@ -42,9 +42,9 @@ include './profiles-card.php'; ?>
     <div class="content-container">
         <div class="page-container">
             <div class="main-content" style="width: 100%;">
-                <h1 class="main-heading">Price List</h1>
+                <h1 class="main-heading">Our Price List</h1>
                 <div style="padding: 3% 2%;">
-                    <img src="<?= $cdn_url ?>call-girls-in-lucknow-2.jpg" width="100%" height="100%" alt="">
+                    
                 </div>
                 <table>
                     <tr>

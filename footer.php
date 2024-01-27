@@ -1,83 +1,83 @@
 <div class="list-of-areas">
     <div class="list-of-areas-row">
         <div class="list-of-areas-col">
-            <a  aria-label="lahartara">
+            <span aria-label="lahartara">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/lahartara.webp" width="100%" height="100%" alt="lahartara" loading="lazy">
+                    <img src="<?= $cdn_url ?>lahartara.webp" width="100%" height="100%" alt="lahartara" loading="lazy">
                 </div>
-            </a>
+            </span>
         </div>
         <div class="list-of-areas-col">
-            <a aria-label="lanka">
+            <span aria-label="lanka">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/lanka.webp" width="100%" height="100%" alt="lanka" loading="lazy">
+                    <img src="<?= $cdn_url ?>lanka.webp" width="100%" height="100%" alt="lanka" loading="lazy">
                 </div>
-            </a>
+            </span>
         </div>
         <div class="list-of-areas-col">
-            <a   aria-label="luxa-road">
+            <span   aria-label="luxa-road">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/luxa-road.webp" width="100%" height="100%" alt="luxa-road" loading="lazy">
+                    <img src="<?= $cdn_url ?>luxa-road.webp" width="100%" height="100%" alt="luxa-road" loading="lazy">
                 </div>
-            </a>
-        </div>
-    </div>
-    <div class="list-of-areas-row">
-        <div class="list-of-areas-col">
-            <a  aria-label="paharia escorts">
-                <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/paharia.webp" width="100%" height="100%" alt="paharia escorts" loading="lazy">
-                </div>
-            </a>
-        </div>
-        <div class="list-of-areas-col">
-            <a  aria-label="pandeypur escorts">
-                <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/pandeypur.webp" width="100%" height="100%" alt="ampandeypurausi escorts" loading="lazy">
-                </div>
-            </a>
-        </div>
-        <div class="list-of-areas-col">
-            <a aria-label="phulpur escorts">
-                <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/phulpur.webp" width="100%" height="100%" alt="phulpur escorts" loading="lazy">
-                </div>
-            </a>
+            </span>
         </div>
     </div>
     <div class="list-of-areas-row">
         <div class="list-of-areas-col">
-            <a  aria-label="singhpur escorts">
+            <span  aria-label="paharia escorts">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/singhpur.webp" width="100%" height="100%" alt="singhpur escorts" loading="lazy">
+                    <img src="<?= $cdn_url ?>paharia.webp" width="100%" height="100%" alt="paharia escorts" loading="lazy">
                 </div>
-            </a>
+            </span>
         </div>
         <div class="list-of-areas-col">
-            <a   aria-label="mahmoorganj">
+            <span  aria-label="pandeypur escorts">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/mahmoorganj.webp" width="100%" height="100%" alt="mahmoorganj" loading="lazy">
+                    <img src="<?= $cdn_url ?>pandeypur.webp" width="100%" height="100%" alt="ampandeypurausi escorts" loading="lazy">
                 </div>
-            </a>
+            </span>
         </div>
         <div class="list-of-areas-col">
-            <a aria-label="sigra escorts">
+            <span aria-label="phulpur escorts">
                 <div class="areas-container">
-                    <img src="<?= $cdn_url ?>varanasi/sigra.webp" width="100%" height="100%" alt="sigra escorts" loading="lazy">
+                    <img src="<?= $cdn_url ?>phulpur.webp" width="100%" height="100%" alt="phulpur escorts" loading="lazy">
                 </div>
-            </a>
+            </span>
+        </div>
+    </div>
+    <div class="list-of-areas-row">
+        <div class="list-of-areas-col">
+            <span  aria-label="singhpur escorts">
+                <div class="areas-container">
+                    <img src="<?= $cdn_url ?>singhpur.webp" width="100%" height="100%" alt="singhpur escorts" loading="lazy">
+                </div>
+            </span>
+        </div>
+        <div class="list-of-areas-col">
+            <span   aria-label="mahmoorganj">
+                <div class="areas-container">
+                    <img src="<?= $cdn_url ?>mahmoorganj.webp" width="100%" height="100%" alt="mahmoorganj" loading="lazy">
+                </div>
+            </span>
+        </div>
+        <div class="list-of-areas-col">
+            <span aria-label="sigra escorts">
+                <div class="areas-container">
+                    <img src="<?= $cdn_url ?>sigra.webp" width="100%" height="100%" alt="sigra escorts" loading="lazy">
+                </div>
+            </span>
         </div>
     </div>
 </div>
 
 <div class="footer-other-location">
     <div class="footer-other-location-row">
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">College Escorts</a></div>
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">Housewife Escorts</a></div>
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">Russian Escorts</a></div>
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">VIP Escorts</a></div>
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">High Profile Escorts</a></div>
-        <div class="other-location"><a class="cat-btn" style="text-transform: uppercase;" href="">Model Escorts</a></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">College Escorts</span></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">Housewife Escorts</span></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">Russian Escorts</span></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">VIP Escorts</span></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">High Profile Escorts</span></div>
+        <div class="other-location"><span class="cat-btn" style="text-transform: uppercase;" href="">Model Escorts</span></div>
     </div>
 </div>
 
@@ -170,7 +170,7 @@
                         </li>
                         <li>
                             <div style="width: 100px;height:auto">
-                                <img src="<?= get_url() ?>assets/images/lucknow-profiles/rta-2.jpg" width="100%" style="mix-blend-mode: color-burn;" alt="">
+                                <img src="<?=$cdn_url ?>rta-2.jpg" width="100%" style="mix-blend-mode: color-burn;" alt="">
                             </div>
                         </li>
                     </ul>
@@ -181,15 +181,15 @@
             <strong>Partner</strong>
             <ul>
                 <li><a href="https://goa.callgirlsinlucknow.in/">Goa</a></li>
-                <li><a href="<?=get_url() ?>udaipur-escorts/">Udaipur</a></li>
-                <li><a href="<?=get_url() ?>escort-service-in-dehradun/">Dehradun</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-mussoorie/">Mussoorie</a></li>
+                <li><a href="https://callgirlsinlucknow.in/udaipur-escorts/">Udaipur</a></li>
+                <li><a href="https://callgirlsinlucknow.in/escort-service-in-dehradun/">Dehradun</a></li>
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-mussoorie/">Mussoorie</a></li>
                 <li><a href="<?=get_url() ?>call-girls-in-jaipur/">Jaipur</a></li>
-                <!-- <li><a href="<?=get_url() ?>call-girls-in-varanasi/">Varanasi</a></li> -->
-                <li><a href="<?=get_url() ?>call-girls-in-rishikesh/">Rishikesh</a></li>
-                <li><a href="<?=get_url() ?>indore-escort-service/">Indore</a></li>
-                <li><a href="<?=get_url() ?>manali-escorts/">Manali</a></li>
-                <li><a href="<?=get_url() ?>escort-service-in-gurgaon/">Gurugram</a></li>
+                <!-- <li><a href="<?=get_url() ?>call-girls-in-">/a></li> -->
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-rishikesh/">Rishikesh</a></li>
+                <li><a href="https://callgirlsinlucknow.in/indore-escort-service/">Indore</a></li>
+                <li><a href="https://callgirlsinlucknow.in/manali-escorts/">Manali</a></li>
+                <li><a href="https://callgirlsinlucknow.in/escort-service-in-gurgaon/">Gurugram</a></li>
             </ul>
         </div>
     </div>

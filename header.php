@@ -3,12 +3,12 @@
             <div class="header-image">
                
                 <div>
-                    <strong>Call Girls In Goa</strong><br><small>Escort Service in Goa</small>
+                    <strong>Call Girls In Varanasi</strong><br><small>Escort Service in Varanasi</small>
                 </div>
             </div>
         </header>
         <div class="image-h" id="image-h" style="background-color: var(--navbarColor);">
-            <img src="<?=$cdn_url ?>varanasi/varanasi.webp" width="100%" height="100%" fetchpriority="low" preload="none" alt="Goa escorts service">
+            <img src="<?=$cdn_url ?>varanasi.webp" width="100%" height="100%" fetchpriority="low" preload="none" alt="Varanasi escorts service">
         </div>
         <nav>
             <ul id="menu">
