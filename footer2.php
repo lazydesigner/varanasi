@@ -98,7 +98,7 @@
                         </li>
                         <li>
                             <div style="width: 100px;height:auto">
-                                <img src="<?= get_url() ?>assets/images/lucknow-profiles/rta-2.jpg" width="100%" height='100% style="mix-blend-mode: color-burn;" alt="">
+                                <img src="<?= get_url() ?>assets/images/lucknow-profiles/rta-2.jpg" width="100%" height='100%' style="mix-blend-mode: color-burn;" alt="">
                             </div>
                         </li>
                     </ul>
@@ -109,15 +109,15 @@
             <strong>Partner</strong>
             <ul>
                 <li><a href="https://goa.callgirlsinlucknow.in/">Goa</a></li>
-                <li><a href="<?=get_url() ?>udaipur-escorts/">Udaipur</a></li>
-                <li><a href="<?=get_url() ?>escort-service-in-dehradun/">Dehradun</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-mussoorie/">Mussoorie</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-jaipur/">Jaipur</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-varanasi/">Varanasi</a></li>
-                <li><a href="<?=get_url() ?>call-girls-in-rishikesh/">Rishikesh</a></li>
-                <li><a href="<?=get_url() ?>indore-escort-service/">Indore</a></li>
-                <li><a href="<?=get_url() ?>manali-escorts/">Manali</a></li>
-                <li><a href="<?=get_url() ?>escort-service-in-gurgaon/">Gurugram</a></li>
+                <li><a href="https://udaipur.callgirlsinlucknow.in/udaipur-escorts/">Udaipur</a></li>
+                <li><a href="https://callgirlsinlucknow.in/escort-service-in-dehradun/">Dehradun</a></li>
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-mussoorie/">Mussoorie</a></li>
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-jaipur/">Jaipur</a></li>
+                <li><a href="https://varanasi.callgirlsinlucknow.in/">Varanasi</a></li>
+                <li><a href="https://callgirlsinlucknow.in/call-girls-in-rishikesh/">Rishikesh</a></li>
+                <li><a href="https://callgirlsinlucknow.in/indore-escort-service/">Indore</a></li>
+                <li><a href="https://callgirlsinlucknow.in/manali-escorts/">Manali</a></li>
+                <li><a href="https://callgirlsinlucknow.in/escort-service-in-gurgaon/">Gurugram</a></li>
             </ul>
         </div>
     </div>
