@@ -7,7 +7,7 @@ include './profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>To Whom It May Concern,This Is A Notice In Accordance With The Digital Millennium Copyright Act Of 1998 (DMCA) Requesting That You Immediately Cease To Provide Access To Copyrighted Material. I Wish To Report An Instance Of Copyright Infringement, Whereby The Infringing Material Appears On A Website For Which You Are The Host.</title>
+    <title>DMCA Notice</title>
     <meta name="description" content="DMCA warning regarding copying and duplicating our website original content or our registered themes.">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
