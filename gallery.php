@@ -13,12 +13,12 @@ include './profiles-card.php'; ?>
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Title of page" />
     <meta property="og:description" content="meta description" />
-    <meta property="og:url" content="<?= get_url() ?>agonda-escorts/" />
+    <meta property="og:url" content="<?= get_url() ?>gallery/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Title of page" />
     <meta name="twitter:description" content="meta description" />
-    <link rel="canonical" href="<?= get_url() ?>agonda-escorts/" />
+    <link rel="canonical" href="<?= get_url() ?>gallery/" />
     <?= $pages_css ?>
 
     <style>
