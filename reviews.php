@@ -25,12 +25,12 @@ $half_star = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Title of page" />
     <meta property="og:description" content="meta description" />
-    <meta property="og:url" content="<?= get_url() ?>review/" />
+    <meta property="og:url" content="<?= get_url() ?>reviews/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Title of page" />
     <meta name="twitter:description" content="meta description" />
-    <link rel="canonical" href="<?= get_url() ?>review/" />
+    <link rel="canonical" href="<?= get_url() ?>reviews/" />
     <link rel="stylesheet" href="<?= get_url() ?>assets/css/reviews.css">
     <?= $pages_css ?>
 </head>
