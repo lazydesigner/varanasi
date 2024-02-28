@@ -320,7 +320,7 @@ include '../profiles-card.php'; ?>
             "@type": "Organization",
             "name": "Raman Escort Service",
             "url": "https://varanasi.callgirlsinlucknow.in",
-            "logo": "https://varanasi.callgirlsinlucknow.in/assets/images/lucknow-profiles/favicon-32x32.png"
+            "logo": "https://cdn.callgirlsinlucknow.in/lucknow-profiles/Raman-Escort-Service.png"
         }
     </script>
 
