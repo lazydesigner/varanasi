@@ -29,7 +29,7 @@ include './profiles-card.php'; ?>
             <div class="main-content" style="width: 100%;">
                 <h1 class="main-heading">Terms and conditions</h1>
 
-                <p>These terms and conditions (&ldquo;Terms&rdquo;, &ldquo;Agreement&rdquo;) are an agreement between Website Operator (&ldquo;Website Operator&rdquo;, &ldquo;us&rdquo;, &ldquo;we&rdquo; or &ldquo;our&rdquo;) and you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;). This Agreement sets forth the general terms and conditions of your use of the&nbsp;<a href="https://www.callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
+                <p>These terms and conditions (&ldquo;Terms&rdquo;, &ldquo;Agreement&rdquo;) are an agreement between Website Operator (&ldquo;Website Operator&rdquo;, &ldquo;us&rdquo;, &ldquo;we&rdquo; or &ldquo;our&rdquo;) and you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;). This Agreement sets forth the general terms and conditions of your use of the&nbsp;<a href="https://callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
 
                 <h2 class="second-heading">Adult content</h2>
 
@@ -45,7 +45,7 @@ include './profiles-card.php'; ?>
 
                 <h2 class="second-heading">Changes and amendments</h2>
 
-                <p>We reserve the right to modify this Agreement or its policies relating to the Website or Services at any time, effective upon posting of an updated version of this Agreement on the Website. When we do, we will post a notification on the main page of our Website. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with&nbsp;<a href="https://www.websitepolicies.com/blog/sample-terms-conditions-template" rel="noreferrer noopener" target="_blank">WebsitePolicies</a>.</p>
+                <p>We reserve the right to modify this Agreement or its policies relating to the Website or Services at any time, effective upon posting of an updated version of this Agreement on the Website. When we do, we will post a notification on the main page of our Website. Continued use of the Website after any such changes shall constitute your consent to such changes. Policy was created with&nbsp;<a href="https://websitepolicies.com/blog/sample-terms-conditions-template" rel="noreferrer noopener" target="_blank">WebsitePolicies</a>.</p>
 
                 <h2 class="second-heading">Acceptance of these terms</h2>
 

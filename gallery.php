@@ -7,17 +7,17 @@ include './profiles-card.php'; ?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?= $noindex ?>
-    <title>Title of page</title>
-    <meta name="description" content="meta description">
+    <title>call girls varansi Gallery | varanasi.callgirlsinlucknow.in </title>
+    <meta name="description" content="Varanasi genuien call girls images ">
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Title of page" />
-    <meta property="og:description" content="meta description" />
+    <meta property="og:title" content="call girls varansi Gallery | varanasi.callgirlsinlucknow.in " />
+    <meta property="og:description" content="Varanasi genuien call girls images " />
     <meta property="og:url" content="<?= get_url() ?>gallery/" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Title of page" />
-    <meta name="twitter:description" content="meta description" />
+    <meta name="twitter:title" content="call girls varansi Gallery | varanasi.callgirlsinlucknow.in " />
+    <meta name="twitter:description" content="Varanasi genuien call girls images " />
     <link rel="canonical" href="<?= get_url() ?>gallery/" />
     <?= $pages_css ?>
 

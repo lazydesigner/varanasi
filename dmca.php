@@ -48,8 +48,8 @@ include './profiles-card.php'; ?>
 
                 <ol>
                     <li>The infringing material, which I contend belongs to me, is the following:Call Girls in Lucknow</li>
-                    <li>The original material is located on my website at the following&nbsp;<a href="https://www.callgirlsinlucknow.in/">https://www.callgirlsinlucknow.in/</a></li>
-                    <li>The infringing material is located at the following&nbsp;<a href="https://www.callgirlsinlucknow.in/">https://www.callgirlsinlucknow.in/</a></li>
+                    <li>The original material is located on my website at the following&nbsp;<a href="https://callgirlsinlucknow.in/">https://callgirlsinlucknow.in/</a></li>
+                    <li>The infringing material is located at the following&nbsp;<a href="https://callgirlsinlucknow.in/">https://callgirlsinlucknow.in/</a></li>
                     <li>My contact information is Name:&nbsp;<strong>Call Girls in Lucknow</strong>&nbsp;Mailing address: Lucknow, Uttar Pradesh, India E-mail address:&nbsp;<strong>Boxxo.in@gmail.com</strong></li>
                     <li>I have a good faith belief that the use of the described material in the manner complained of is not authorized by the copyright owner, its agent, or by operation of law.</li>
                     <li>The information in this notice is accurate, and I am either the copyright owner or I am authorized to act on behalf of the copyright owner.</li>
