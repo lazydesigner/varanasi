@@ -29,7 +29,7 @@ include './profiles-card.php'; ?>
             <div class="main-content" style="width: 100%;">
                 <h1 class="main-heading">Privacy Policy</h1>
 
-                <p>This privacy policy (&ldquo;Policy&rdquo;) describes how Website Operator (&ldquo;Website Operator&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;) collects, protects and uses the personally identifiable information (&ldquo;Personal Information&rdquo;) you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;) may provide on the&nbsp;<a href="https://www.callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
+                <p>This privacy policy (&ldquo;Policy&rdquo;) describes how Website Operator (&ldquo;Website Operator&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo; or &ldquo;our&rdquo;) collects, protects and uses the personally identifiable information (&ldquo;Personal Information&rdquo;) you (&ldquo;User&rdquo;, &ldquo;you&rdquo; or &ldquo;your&rdquo;) may provide on the&nbsp;<a href="https://callgirlsinlucknow.in/" rel="noreferrer noopener" target="_blank">callgirlsinlucknow.in</a>&nbsp;website and any of its products or services (collectively, &ldquo;Website&rdquo; or &ldquo;Services&rdquo;).</p>
 
                 <p>It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.</p>
 

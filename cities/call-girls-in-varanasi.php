@@ -66,7 +66,7 @@ include '../profiles-card.php'; ?>
 
                 <p><strong>Unforgettable Experiences:&nbsp;</strong>Our agency is not just about physical companionship; it&rsquo;s about creating memories that will stay with you forever. Our companions are skilled in the art of connection and are dedicated to providing you with an unforgettable experience.</p>
 
-                <p><strong>Professionalism:</strong>&nbsp;From the moment you&nbsp;<a href="https://www.callgirlsinlucknow.in/contact-us/">contact us</a>&nbsp;to the time your companionship experience concludes, you&rsquo;ll be treated with the utmost professionalism. We value your time, your preferences, and your satisfaction.</p>
+                <p><strong>Professionalism:</strong>&nbsp;From the moment you&nbsp;<a href="https://callgirlsinlucknow.in/contact-us/">contact us</a>&nbsp;to the time your companionship experience concludes, you&rsquo;ll be treated with the utmost professionalism. We value your time, your preferences, and your satisfaction.</p>
 
                 <div class="new-profile-area">
                     <div class="profile-section">
