@@ -19,7 +19,7 @@ include '../profiles-card.php'; ?>
     <meta name="twitter:title" content="Call Girls In Varanasi @ 2500 Without Any Advance Payment" />
     <meta name="twitter:description" content="Are You Looking for Call girls in Varanasi or Banaras Escort Service? Contact 0000000000 Varanasi Escorts cost 2500- 5000 INR for an hour." />
     <meta name="google-site-verification" content="g7n53rJPidKQfc3JBRFIxjlTriw4BLySnen5-AMsHrk" />
-    <link rel="canonical" href="https://callgirlsinlucknow.in/call-girls-in-varanasi/" />
+    <link rel="canonical" href="https://varanasi.callgirlsinlucknow.in/" />
     <?= $pages_css ?>
     <style>
         table {
